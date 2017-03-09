@@ -14,7 +14,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
